@@ -37,3 +37,4 @@ Labfiles/02-qna/C-Sharp/qna-app/obj/Debug/net7.0/qna-app.AssemblyInfo.cs
 venv/
 Labfiles/01-analyze-text/Python/text-analysis/.env
 Labfiles/02-qna/Python/qna-app/.env
+Labfiles/03-language/Python/clock-client/.env
